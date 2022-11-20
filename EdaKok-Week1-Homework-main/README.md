@@ -1,2 +1,2 @@
 # EdaKok-Week1-Homework
-First week web api project with four http methods.
+First week web api with CRUD operations.
